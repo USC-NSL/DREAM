@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="floodlight">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/floodlight.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/floodlight.jar!/" />
+    </SOURCES>
+  </library>
+</component>
