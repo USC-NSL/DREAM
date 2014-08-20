@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Simulation>
+	<Property name="Epoch" value="1"/>
+	<Property name="StartTime" value="46801"/>
+	<!-- <Property name="Output" value="output/multi_sketch_2048_t2_1"/> -->
+	<Network>
+		<Switch capacity="32768" name="1">
+			<Prefix value="________________________________"/>
+		</Switch>
+	</Network>
+	
+	<TaskHandler class="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.singleswitch.MultiTaskSingleSwitchPacketUser">
+		<Property name="UpdateInterval" value="2"/>
+		<Property name="ResourceControl" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.singleswitch.resourceallocation.DynamicNoDropAlgorithm">
+		</Property> 
+		<Property name="AccuracyAggregator" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.aggregator.MovingAverageAccuracyAggregatorImpl">
+			<Property name="Width" value="5"/>
+			<Property name="Init" value="0.79"/>
+		</Property>
+	</TaskHandler>	
+	<ImportEvents path="events.xml"/>
+	<ImportEvents path="transform.xml"/>
+ </Simulation>

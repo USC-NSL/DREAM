@@ -1,0 +1,119 @@
+<project name="HHHDetection" basedir="." default="jar">
+
+    <property name="build" value="build"/>
+    <property name="Convert-Main-Class"
+              value="edu.usc.enl.dynamicmeasurement.process.scripts.ConvertPerEpochScript"/>
+    <property name="Main-Main-Class"
+              value="edu.usc.enl.dynamicmeasurement.process.task.MultiTraceMainScript"/>
+    <property name="Metric-Main-Class"
+              value="edu.usc.enl.dynamicmeasurement.metric.ComputeMetricsScript"/>
+    <property name="Floodlight-Main-Class"
+              value="net.floodlightcontroller.core.Main"/>
+
+    <!--<property name="Main-Class" value=""/>-->
+    <property name="lib" value="lib"/>
+    <property name="dist" value="dist"/>
+
+
+    <path id="libs.classpath">
+        <pathelement path="${basedir}"/>
+        <fileset dir="lib">
+            <include name="*.jar"/>
+        </fileset>
+    </path>
+
+    <path id="floodlight.classpath">
+        <pathelement path="${basedir}"/>
+        <fileset dir="lib">
+            <include name="floodlight.jar"/>
+        </fileset>
+    </path>
+
+    <pathconvert property="manifest.classpath" pathsep=" ">
+        <path refid="libs.classpath"/>
+        <mapper>
+            <chainedmapper>
+                <flattenmapper/>
+                <globmapper from="*.jar" to="lib/*.jar"/>
+            </chainedmapper>
+        </mapper>
+    </pathconvert>
+
+    <target name="clean">
+        <delete dir="${build}"/>
+    </target>
+
+    <target name="init" depends="clean">
+        <mkdir dir="${build}"/>
+        <mkdir dir="${dist}"/>
+        <copy todir="${dist}">
+            <fileset dir="${basedir}" includes="lib/*.*"/>
+        </copy>
+    </target>
+
+    <target name="compile" depends="init">
+        <!-- Compile the java code -->
+        <javac target="1.8" source="1.8" srcdir="src" destdir="${build}"
+               debug="true" debuglevel="lines,vars,source">
+            <classpath>
+                <path refid="libs.classpath"/>
+                <path refid="floodlight.classpath"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <target name="jar-convert" depends="compile">
+        <!-- Build the jar file -->
+        <jar basedir="${build}" destfile="${dist}/convert.jar">
+            <manifest>
+                <attribute name="Built-By" value="Masoud Moshref Javadi"/>
+                <attribute name="license" value="GNU"/>
+                <attribute name="Class-Path" value="${manifest.classpath}"/>
+                <attribute name="Main-Class" value="${Convert-Main-Class}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="jar-multitracemain" depends="compile">
+        <!-- Build the jar file -->
+        <jar basedir="${build}" destfile="${dist}/dream.jar">
+            <manifest>
+                <attribute name="Built-By" value="Masoud Moshref Javadi"/>
+                <attribute name="license" value="GNU"/>
+                <attribute name="Class-Path" value="${manifest.classpath}"/>
+                <attribute name="Main-Class" value="${Main-Main-Class}"/>
+            </manifest>
+        </jar>
+    </target>
+    <target name="jar-metric" depends="compile">
+        <!-- Build the jar file -->
+        <jar basedir="${build}" destfile="${dist}/metric.jar">
+            <manifest>
+                <attribute name="Built-By" value="Masoud Moshref Javadi"/>
+                <attribute name="license" value="GNU"/>
+                <attribute name="Class-Path" value="${manifest.classpath}"/>
+                <attribute name="Main-Class" value="${Metric-Main-Class}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="jar-floodlight" depends="compile">
+        <copy todir="${dist}/lib">
+            <path refid="floodlight.classpath"/>
+        </copy>
+        <!-- Build the jar file -->
+        <jar basedir="${build}" destfile="${dist}/dream_floodlight.jar">
+            <manifest>
+                <attribute name="Built-By" value="Masoud Moshref Javadi"/>
+                <attribute name="license" value="GNU"/>
+                <attribute name="Class-Path" value="${manifest.classpath} lib/floodlight.jar"/>
+                <attribute name="Main-Class" value="${Floodlight-Main-Class}"/>
+            </manifest>
+        </jar>
+
+    </target>
+
+    <target name="jar" depends="jar-convert,jar-multitracemain,jar-metric">
+    </target>
+
+</project>

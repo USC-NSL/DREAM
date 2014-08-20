@@ -1,0 +1,4 @@
+<Event time="0" class="edu.usc.enl.dynamicmeasurement.model.event.RemoveTaskEvent">
+    <Property name="Id" value="1">
+    </Property>
+</Event>

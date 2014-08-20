@@ -1,0 +1,6 @@
+<Event time="0" class="edu.usc.enl.dynamicmeasurement.model.event.AddTrafficEvent">
+    <Property name="1" value="edu.usc.enl.dynamicmeasurement.data.trace.InputTrace">
+        <Property name="Filter" value="0_______________________________"/>
+        <Property name="Folder" value=""/>
+    </Property>
+</Event>

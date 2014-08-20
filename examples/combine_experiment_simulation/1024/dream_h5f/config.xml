@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Simulation>
+	<Property name="Epoch" value="1"/>
+	<Property name="StartTime" value="46801"/>
+	<!-- <Property name="Output" value="output/multi_sketch_2048_t2_1"/> -->
+	<Network path="../network.xml"/>
+	<TaskHandler class="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.multiswitch.separateallocation.SeparateMultiTaskMultiSwitchTaskHandler">
+		<Property name="UpdateInterval" value="2"/>		
+		<Property name="GlobalDrop" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.multiswitch.separateallocation.globaldrop.ConsecutiveStarvationGlobalDrop">
+			<Property name="DropEpochs" value="6"/>
+			<Property name="LowThreshold" value="0.80"/>
+		</Property>
+		<Property name="GlobalAccuracyAggregator" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.aggregator.EWMAAccuracyAggregatorImpl">
+				<Property name="Alpha" value="0.4"/>
+				<Property name="Init" value="1"/>
+			</Property>
+		<Property name="ResourceControl" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.singleswitch.resourceallocation.dream.ThresholdGuaranteeAlgorithm2">
+			<Property name="LowThreshold" value="0.80"/>
+			<Property name="HighThreshold" value="0.85"/>
+			<Property name="Headroom" value="0.05"/>
+			<Property name="MinResource" value="4"/>
+			<Property name="Distributor" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.singleswitch.resourceallocation.dream.distributor.AbsolutePriorityResourceDistributorHeadroom"/>
+			<Property name="StepUpdater" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.singleswitch.resourceallocation.dream.step.MIMDStepUpdater"/>
+		</Property> 
+		<Property name="AccuracyAggregator" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.aggregator.EWMAAccuracyAggregatorImpl">
+			<Property name="Alpha" value="0.4"/>
+			<Property name="Init" value="0.79"/>
+		</Property>
+	</TaskHandler>	
+	<ImportEvents path="../../events.xml"/><ImportEvents path="../../transform.xml"/>
+ </Simulation>

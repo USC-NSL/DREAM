@@ -1,0 +1,6 @@
+<Event time="0" class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent">
+    <Property name="skew1" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+        <Property name="Filter" value="110_____________________________"/>
+        <Property name="Scale" value="100"/>
+    </Property>
+</Event>

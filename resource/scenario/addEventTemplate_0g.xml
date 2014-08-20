@@ -1,0 +1,14 @@
+<Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTraceTaskEvent" time="8">
+    <Property name="task1"
+              value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.multitask.singleswitch.SingleSwitchTask">
+        <Property name="Filter" value="0_______________________________"/>
+        <Property name="User" value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.hh.HHHPacketUser">
+            <Property name="Algorithm"
+                      value="edu.usc.enl.dynamicmeasurement.algorithms.tasks.hhh.groundtruth.HHHGroundTruth">
+                <Property name="Threshold" value="1000000"/>
+                <Property name="Filter" value="0_______________________________"/>
+                <Property name="WildcardNum" value="0"/>
+            </Property>
+        </Property>
+    </Property>
+</Event>

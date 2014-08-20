@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Simulation>	
+<Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="0" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00000010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="1" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00000011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="2" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00000100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="3" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00000101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="4" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00001000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="5" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00001001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="6" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00001011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="7" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00001101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="8" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00001110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="9" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00001111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="10" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00010010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="11" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00010011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="12" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00010100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="13" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00010101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="14" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00011000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="15" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00011001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="16" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00011011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="17" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00011101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="18" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00011110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="19" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00100010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="20" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00100011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="21" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00100100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="22" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00100101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="23" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00101000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="24" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00101001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="25" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00101011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="26" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00101101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="27" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00101110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="28" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00110010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="29" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00110011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="30" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00110100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="31" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00110101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="32" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00111000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="33" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00111001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="34" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00111011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="35" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00111101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="36" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="00111110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="37" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01000010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="38" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01000011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="39" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01000100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="40" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01000101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="41" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01001000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="42" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01001001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="43" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01001011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="44" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01001101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="45" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01001110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="46" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01001111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="47" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01010010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="48" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01010011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="49" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01010100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="50" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01010101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="51" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01011000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="52" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01011001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="53" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01011011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="54" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01011101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="55" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01011110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="56" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01011111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="57" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01100010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="58" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01100011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="59" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01100100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="60" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01100101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="61" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01100110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="62" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="63" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="64" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="65" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="66" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="67" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="68" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01101111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="69" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01110010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="70" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01110011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="71" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01110100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="72" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01110101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="73" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01110110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="74" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="75" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="76" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="77" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="78" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="79" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="80" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="01111111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="81" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10000010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="82" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10000011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="83" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10000100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="84" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10000101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="85" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10000110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="86" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10001000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="87" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10001001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="88" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10001011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="89" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10001101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="90" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10001110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="91" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10001111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="92" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10010010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="93" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10010011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="94" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10010100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="95" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10010101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="96" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="97" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="98" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="99" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="100" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="101" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="102" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10011111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="103" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10100010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="104" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10100011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="105" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10100100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="106" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10100101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="107" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10101000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="108" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10101001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="109" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10101011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="110" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10101101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="111" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10101110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="112" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10101111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="113" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10110010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="114" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10110011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="115" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10110100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="116" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10110101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="117" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10110110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="118" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10111000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="119" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10111001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="120" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10111010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="121" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10111011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="122" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10111101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="123" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="10111110________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="124" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11000010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="125" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11000011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="126" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11000100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="127" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11000101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="128" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11001000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="129" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11001001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="130" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11001011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="131" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11001101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="132" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11001111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="133" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11010010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="134" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11010011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="135" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11010100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="136" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11011000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="137" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11011001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="138" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11011011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="139" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11011101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="140" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11011111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="141" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11100010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="142" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11100011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="143" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11100100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="144" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11101000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="145" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11101001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="146" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11101011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="147" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11101101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="148" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11101111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="149" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11110010________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="150" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11110011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="151" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11110100________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="152" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11111000________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="153" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11111001________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="154" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11111011________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="155" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11111101________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event><Event class="edu.usc.enl.dynamicmeasurement.model.event.AddTransformEvent" time="0">
+		<Property name="156" value="edu.usc.enl.dynamicmeasurement.algorithms.transform.ExperimentScale">
+			<Property name="Filter" value="11111111________________________"/>
+			<Property name="Scale" value="100"/>
+		</Property>
+	</Event></Simulation>
